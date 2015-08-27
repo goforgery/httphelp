@@ -1,5 +1,7 @@
 # httphelp
 
+[![Build Status](https://secure.travis-ci.org/goforgery/httphelp.png?branch=master)](http://travis-ci.org/goforgery/httphelp)
+
 HTTP Helper functions, Vars and Types for Go.
 
 	go get github.com/goforgery/httphelp
